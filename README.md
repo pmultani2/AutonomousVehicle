@@ -6,7 +6,7 @@ Welcome to the Autonomous Vehicle repository! This project was developed during 
 ## Features
 - **Autonomous Navigation:** Our robot utilizes sensors to autonomously navigate its environment, making decisions in real-time.
 - **Obstacle Avoidance:** With obstacle detection, our robot can maneuver through challenging environments.
-- 
+  
 ## Components
 - Arduino Uno: The brain of our robot, responsible for processing sensor data and controlling actuators.
 - Ultrasonic Sensors: Used for obstacle detection and avoidance.
